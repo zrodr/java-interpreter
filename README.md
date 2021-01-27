@@ -8,8 +8,4 @@
 
 ## Supported Functionality
 #### The interpreter supports: 
-#####-variable declaration 
-#####-function declaration/invocation
-#####-nested function calls, recursion
-#####-arithmetic expressions evaluable at runtime
-#####-flow control (if statements, loops, return)
+variable declaration, function declaration/invocation, nested function calls, recursion, arithmetic expressions evaluable at runtime, flow control (if statements, loops, return)
