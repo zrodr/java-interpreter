@@ -1,0 +1,10 @@
+define factorial(param) {
+    if (param <= 1) {
+        return 1
+    }
+
+    return param * factorial(param - 1)
+}
+
+print(factorial(5))
+print(factorial(10))

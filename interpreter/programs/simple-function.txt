@@ -1,0 +1,9 @@
+define sum(a, b) {
+    return a + b
+}
+
+define sum3(a, b, c) {
+    return sum(a, b) + c
+}
+
+print(sum3(3, 8, 2))
